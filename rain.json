@@ -524,7 +524,7 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "rosiecord-plumpy",
+        "iconpack": "solarduotone",
         "mentionLineColor": "#E0E0E0",
         "customOverlays": true,
         "icons": {
