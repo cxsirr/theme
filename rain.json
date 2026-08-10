@@ -526,7 +526,7 @@
         "version": 0,
         "iconpack": "solarbroken",
         "mentionLineColor": "#E0E0E0",
-        "customOverlays": true,
+        "customOverlays": false,
         "icons": {
             "ic_radio_circle_checked": "#C0C0C0",
             "ic_radio_circle_checked__overlay": "#FFFFFF",
