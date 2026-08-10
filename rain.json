@@ -1,11 +1,11 @@
 {
-    "name": "Royalcord",
-    "description": "A Persona 5 based theme",
+    "name": "WIP",
+    "description": "WIP",
     "version": "1.0",
     "authors": [
         {
-            "name": "Sunflames0",
-            "id": "1290800049013395510"
+            "name": "cxsir",
+            "id": "0"
         }
     ],
     "semanticColors": {
@@ -521,7 +521,7 @@
     },
     "background": {
     "blur": 0,
-    "url": "https://file.garden/aKYZd-0-7XrPdUQl/Untitled224_20260802190957.png",
+    "url": "https://i.giphy.com/UYBDCJjwOd9Re.webp",
     "alpha": 0.30
     },
     "plus": {
