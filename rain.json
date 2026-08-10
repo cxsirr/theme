@@ -1,5 +1,5 @@
 {
-    "name": "RainStorm OLED",
+    "name": "rainStorm OLED",
     "description": "An OLED theme with a nifty background.",
     "authors": [
         {
@@ -524,9 +524,9 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "solarbroken",
+        "iconpack": "rosiecord-plumpy",
         "mentionLineColor": "#E0E0E0",
-        "customOverlays": false,
+        "customOverlays": true,
         "icons": {
             "ic_radio_circle_checked": "#C0C0C0",
             "ic_radio_circle_checked__overlay": "#FFFFFF",
